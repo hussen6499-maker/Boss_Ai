@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.23.0
+google-genai==0.7.0
+requests==2.32.3
+python-docx==1.2.0
+deep-translator==1.11.4
